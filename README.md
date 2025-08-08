@@ -6,12 +6,14 @@ View on Tableau Public
 [View on Tableau Public](https://public.tableau.com/app/profile/shounak.sawant/viz/Book1_17545114778340/Dashboard1)
 
 ## Files
+[Raw Data](Electric_Vehicle_Population_Data.xlsx)
+
+## Preview
 Previews of the Dashboard
 
 ![Dashboard Screenshot](Tableau_electric_vehicle1.png) 
 ![Dashboard Screenshot](Tableau_electric_vehicle2.png) 
 
-## Preview
 
 ## Dashboard Features
 Vehicle Type breakdown (Battery Electric vs. Plug-in Hybrid)
